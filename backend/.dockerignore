@@ -1,0 +1,23 @@
+# Maven build files
+target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Local configuration files
+src/main/resources/application-local.properties
+src/main/resources/application-dev.properties
